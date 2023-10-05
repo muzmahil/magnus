@@ -22,6 +22,6 @@ exec = {
         "exec" : lambda query : youtube(query)
     },
     "github hesabımı aç" : {
-        "exec" : lambda query : webbrowser.open("https://www.github.com/rootcf")
+        "exec" : lambda query : webbrowser.open("https://www.github.com/isuthecoder")
     }
 }
